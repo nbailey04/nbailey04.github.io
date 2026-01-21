@@ -1,0 +1,9 @@
+1:"$Sreact.fragment"
+2:I[77449,["/nbailey.github.io/_next/static/chunks/416306ea11a29e93.js","/nbailey.github.io/_next/static/chunks/dc7ce137911f85b5.js"],"HeroSection"]
+3:I[39534,["/nbailey.github.io/_next/static/chunks/416306ea11a29e93.js","/nbailey.github.io/_next/static/chunks/dc7ce137911f85b5.js"],"FeaturedProjects"]
+4:I[32224,["/nbailey.github.io/_next/static/chunks/416306ea11a29e93.js","/nbailey.github.io/_next/static/chunks/dc7ce137911f85b5.js"],"ExperienceSection"]
+5:I[83093,["/nbailey.github.io/_next/static/chunks/416306ea11a29e93.js","/nbailey.github.io/_next/static/chunks/dc7ce137911f85b5.js"],"ConnectSection"]
+6:I[79514,["/nbailey.github.io/_next/static/chunks/416306ea11a29e93.js","/nbailey.github.io/_next/static/chunks/b2970ccb9eb3114d.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+0:{"buildId":"dc_W5ccH0NYkvxa7dlaAl","rsc":["$","$1","c",{"children":[["$","main",null,{"className":"min-h-screen bg-background","children":["$","div",null,{"className":"mx-auto max-w-2xl px-6 py-16 md:py-24","children":[["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{}]]}]}],[["$","script","script-0",{"src":"/nbailey.github.io/_next/static/chunks/416306ea11a29e93.js","async":true}],["$","script","script-1",{"src":"/nbailey.github.io/_next/static/chunks/dc7ce137911f85b5.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
+8:null
